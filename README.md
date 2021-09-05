@@ -4,4 +4,4 @@
 - Converting Continous Data into Discrete Data for classification
 - Using Continous Data for Classification
 
--- Dataset used: IRIS
+- Dataset used: IRIS
